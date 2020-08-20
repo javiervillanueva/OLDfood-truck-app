@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/javiervillanueva/food-truck-app#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "express-session": "^1.16.2",
     "massive": "^6.1.0",
     "dotenv": "^8.1.0",
